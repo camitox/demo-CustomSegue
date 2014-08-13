@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[FKModalSegue perform]:FKModalSegue.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "toVC">
+            </PersistentString>
+            <PersistentString
+               value = "_unwind">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FKModalSegue blurSnapshotFromView:]:FKModalSegue.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
